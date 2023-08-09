@@ -25,7 +25,10 @@
 <!-----------------------------------Stats------------------------------------------>
 
 <p align="center">
-  https://github-readme-streak-stats.herokuapp.com/?user=DanielPurdy509	
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielPurdy509&theme=tokyonight"/>
+    <br>
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=DanielPurdy509&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanielPurdy509&theme=tokyonight"/> -->
 </p>
 <hr>
 
@@ -42,6 +45,7 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <br><br>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
