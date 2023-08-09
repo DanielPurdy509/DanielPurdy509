@@ -24,7 +24,9 @@
 
 <!-----------------------------------Stats------------------------------------------>
 
-https://github-readme-streak-stats.herokuapp.com/?user={DanielPurdy509}	
+<p align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=DanielPurdy509	
+</p>
 <hr>
 
 <!----------------------------------Skills------------------------------------------>
