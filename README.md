@@ -17,10 +17,35 @@
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>
   </a>
 </p>
+<hr>
 
 <!-----------------------------------Other------------------------------------------>
 
-- 🔭 I’m currently working on this page. 
+<h2 align="center">About Me</h2>
+
+* 🔭 I'm looking to learn TyepScript, Java, and Python in the near future.
+* 🧠 Planning to work on a new personal project. If you have ideas for a good website to build, let me know!
+* 📖 Practice and research a little each day to improve my skills 💪
+* 👥 Always welcome to collaborate
+
+<hr>
+
+<!--------------------------------Past Work----------------------------------------->
+
+<h2 align="center">My Past Work:</h2>
+
+<h3 align='center'>MCSP-20 Front End Capstone</h3>
+<div style="display-flex" align="center">
+  <img src="https://github.com/DanielPurdy509/DanielPurdy509/assets/125397922/38106d3f-9748-4f27-b9fa-a84b8509608f">
+  <img src="https://github.com/DanielPurdy509/DanielPurdy509/assets/125397922/4605be06-4358-4c7c-a677-b91743eacf43">
+</div>
+<br>
+
+  - [x] Map Components
+  - [x] Things-to-do-nearby Carousel
+  - [x] Saftey Partners Card
+
+<hr>
 
 <!-----------------------------------Stats------------------------------------------>
 
