@@ -23,7 +23,7 @@
 
 <h2 align="center">About Me</h2>
 
-* 🔭 I'm looking to learn TyepScript, Java, and Python in the near future.
+* 🔭 I'm looking to learn TypeScript, Java, and Python in the near future.
 * 🧠 Planning to work on a new personal project. If you have ideas for a good website to build, let me know!
 * 📖 Practice and research a little each day to improve my skills 💪
 * 👥 Always welcome to collaborate
