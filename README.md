@@ -1,7 +1,7 @@
 <!------------------------------Header / Intro-------------------------------------->
 <h1 align='center' paddingBottom="-10px">Hello World! 🌎, I'm Daniel👋</h1>
 <p align='center'>
-<h4 align="center">Software Developer💻 and Army Veteran🪖 based out of eastern WA🏜️</h4>
+<h4 align="center">Software Developer 💻 and Army Veteran 🪖 based out of Eastern WA 🏜️</h4>
 
 <!------------------------------Links to Socials------------------------------------>
 
