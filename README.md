@@ -1,10 +1,13 @@
 <!------------------------------Header / Intro-------------------------------------->
 <h1 align='center' paddingBottom="-10px">Hello World! 🌎, I'm Daniel👋</h1>
 <p align='center'>
-<h4 align="center">Software Developer 💻 and Army Veteran 🪖 based out of Eastern WA 🏜️</h4>
+<h4 align="center">Current WSU Computer Science Student 💻 and Army Veteran 🪖 based out of Eastern WA 🏜️</h4>
+<p  align="center">  
+  <a href="mailto:daniel.purdy@wsu.edu">daniel.purdy@wsu.edu</a>
+</p>
 
 <!------------------------------Links to Socials------------------------------------>
-
+<!--
 <br>
 <p align="center">
   <a href="https://github.com/DanielPurdy509">
@@ -18,14 +21,15 @@
   </a>
 </p>
 <hr>
-
+-->
 <!-----------------------------------Other------------------------------------------>
 
 <h2 align="center">About Me</h2>
 
-* 🔭 I'm looking to learn TypeScript, Java, and Python in the near future.
-* 🧠 Planning to work on a new personal project. If you have ideas for a good website to build, let me know!
-* 📖 Practice and research a little each day to improve my skills 💪
+* 🎓 Freshman Computer Science major at Washington State University - Tri-Cities
+* 🔭 I'm looking to learn C++, TypeScript, and Python in the near future.
+* 💻 Previous Web Development Bootcamp Grad
+* 📖 Looking to work on personal projects. If you have any ideas, let me know! 💪
 * 👥 Always welcome to collaborate
 
 <hr>
