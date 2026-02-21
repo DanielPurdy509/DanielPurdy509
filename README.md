@@ -26,7 +26,7 @@
 
 <h2 align="center">About Me</h2>
 
-* 🎓 Freshman Computer Science major at Washington State University - Tri-Cities
+* 🎓 Sophmore Computer Science major at Washington State University - Tri-Cities
 * 🔭 I'm looking to learn C++, TypeScript, and Python in the near future.
 * 💻 Previous Web Development Bootcamp Grad
 * 📖 Looking to work on personal projects. If you have any ideas, let me know! 💪
